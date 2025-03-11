@@ -3,8 +3,6 @@ This repository contains a Python script that implements Customer Churn Predicti
 
 
 
-# Customer Churn Analysis using Deep Learning
-
 ## Overview
 This repository contains a Python script that implements **Customer Churn Prediction** using a **Deep Learning Neural Network**. The model predicts whether a customer will churn (leave the service) based on various demographic and account-related factors.
 
